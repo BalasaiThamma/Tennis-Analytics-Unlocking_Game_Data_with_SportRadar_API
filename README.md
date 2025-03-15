@@ -1,15 +1,3 @@
-SportRadar Event Explorer - TennisProject
+SportRadar Event Explorer - Tennis Project
 
-The SportRadar Event Explorer is a powerful tool designed to manage, visualize, and analyze sports competition data from the Sportradar API. This application parses JSON data, structures it in a relational database, and provides interactive insights into tournaments, competition hierarchies, and event details.
-
-Key Features:
-
-✅ Automated Data Parsing – Extract and process structured competition data from the Sportradar API.
-
-✅ Database Integration – Store and manage event details efficiently in a relational database.
-
-✅ Interactive Visualizations – Gain insights into competition structures and trends through intuitive dashboards.
-
-✅ Event Analysis – Explore real-time and historical event data for better decision-making.
-
-This project is built to assist sports enthusiasts, analysts, and organizations in understanding competition structures, tracking performance, and uncovering trends in the sports industry.
+The SportRadar Event Explorer - Tennis Project is a comprehensive solution for managing, visualizing, and analyzing sports competition data obtained from the Sportradar API. This application processes JSON data, organizes structured information within a relational database, and presents intuitive insights into tournaments, competition hierarchies, and event details. Designed for sports enthusiasts, analysts, and organizations, this project facilitates a deeper understanding of competition structures and trends while enabling interactive exploration of detailed event-specific information.
